@@ -1,7 +1,7 @@
 import { useState, useRef, useEffect } from 'react';
 import './index.css';
 
-const BACKEND_URL = 'http://localhost:5000';
+const BACKEND_URL = 'https://mental-health-backend-ich0.onrender.com';
 
 // Generate a random session ID once per browser tab, so conversations
 // can be grouped without needing user accounts or personal info.
