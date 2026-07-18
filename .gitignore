@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+venv/
+__pycache__/
+
+# Environment variables (contains secrets!)
+.env
+.env.local
+
+# Build outputs
+dist/
+build/
+
+# Editor/OS files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
